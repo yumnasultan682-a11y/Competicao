@@ -1,0 +1,9 @@
+{
+  "bairros": [
+    {"nome": "Polana", "lat": -25.96, "lng": 32.58, "nivel_agua": 75},
+    {"nome": "Maxaquene", "lat": -25.95, "lng": 32.56, "nivel_agua": 45},
+    {"nome": "Matola", "lat": -25.96, "lng": 32.45, "nivel_agua": 85},
+    {"nome": "Hulene", "lat": -25.93, "lng": 32.59, "nivel_agua": 20},
+    {"nome": "Inhagoia", "lat": -25.97, "lng": 32.55, "nivel_agua": 65}
+  ]
+}
